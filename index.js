@@ -21,3 +21,7 @@ function increaseRankBy(n) {
 }
 }
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> b4abfc231c538f7e905e4b24102c72bcf111ec39
